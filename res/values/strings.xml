@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Gate automática -->
+    <string name="start">Comenzar</string>
+    <string name="stop">Finalizar</string>
+    <string name="connecting_gps">Conectando GPS, espere un instante</string>
+    <string name="gps_ok">¡GPS listo!</string>
+    <string name="current_position">Posición actual: (</string>
+    <string name="finish_sending_data">Terminando de enviar datos</string>
+    <string name="cannot_connect_server">Imposible conectar con el servidor</string>
+    <string name="server_no_response">No se ha recibido respuesta, ¡pruebe de nuevo!</string>
+
+    <!-- Gate no automática -->
+    <string name="titulo">Notificar incidencias</string>
+    <string name="generating_summary">Generando resumen de incidencia</string>
+    <string name="sending_data">Enviando datos</string>
+    <string name="unknown_error">Ha ocurrido algún error al procesar el dato devuelto</string>
+    <string name="data_ok">Incidencia enviada :)</string>
+    <string name="selecciona">Seleccione una acción:</string>
+    <string name="add_photo">Añadir imagen</string>
+    <string name="recover_photo">Recuperar imagen de galería</string>
+    <string name="no_photo">Sin imagen</string>
+    <string name="max_photos_reached">Máximo permitido de imágenes alcanzado</string>
+    <string name="cancel_take_photo">Cancelar</string>
+    <string name="add_new_photo">Agregar nueva imagen</string>
+    <string name="dismiss_photo">Descartar imagen</string>
+    <string name="sd">El dispositivo de almacenamiento externo no está montado. \
+        				Por favor, inserte un dispositivo y vuelva a entrar en \
+        				la aplicación.</string>
+    <string name="usuario">Nombre de usuario</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="txtdefecto">Escriba aquí su comentario</string>
+    <string name="buscar_gps">Volver a buscar posición</string>
+    <string name="gps_off">Por favor, active la conexión GPS</string>
+    <string name="get_position">Determinando posición</string>
+    <string name="search_cancelled">Cancelado por usuario</string>
+    <string name="no_found_position">No se encontró posición GPS, ¡pruebe de nuevo!</string>
+    <string name="position_found_lati">Posición encontrada - Latitud: </string>
+    <string name="position_found_longi">, Longitud: </string>
+    <string name="ubicacion">Ubicación actual:</string>
+    <string name="current_position_not_found">Posición actual no obtenida</string>
+    <string name="move_to_current_position">Ir a posición actual</string>
+    <string name="search_position">Buscar lugar</string>
+    <string name="buscar">Busque una dirección</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="sindireccion">No se ha encontrado ningún lugar con dicho nombre</string>
+    <string name="summary">Resumen</string>
+
+</resources>
