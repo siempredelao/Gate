@@ -542,6 +542,7 @@ public final class NonAutomaticGate extends Gate {
 				
 			    // execute is a blocking call, it's best to call this code in a
 			    // thread separate from the ui's
+			    response = httpClient.execute(targetHost, httpPost);
 			} catch (SocketException ex){
 				Log.e("SendOnlyOneFact", "No existe conexión con el servidor");
 			    ex.printStackTrace();
